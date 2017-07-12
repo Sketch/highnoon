@@ -1,0 +1,30 @@
+{
+  "name": "HighNoon",
+  "version": "1.0.0",
+  "description": "An API to construct and execute battles with Pokemon Showdown",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "@>= 2.1.2 < 4",
+    "chai-as-promised": "^6.0.0",
+    "chrome-remote-interface": "^0.22.0",
+    "lighthouse": "^2.0.0",
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "GlassTopHat",
+  "license": "CC-BY-NC-ND-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sketch/highnoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sketch/highnoon/issues"
+  },
+  "homepage": "https://github.com/sketch/highnoon#readme"
+}
